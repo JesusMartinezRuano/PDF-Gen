@@ -29,7 +29,7 @@ All your files are listed in the file explorer. You can switch from one to anoth
 
 ## Report table
 
-The table is very clear and simple as you can see [here](https://github.com/JesusMartinezRuano/PDF-Gen/blob/master/pdfkit-and-webpack%20-%202019-06-11T114436.183.pdf)
+The table is very clear and simple as you can see [here](https://github.com/JesusMartinezRuano/PDF-Gen/blob/master/pdfkit-and-webpack%20-%202019-06-11T114436.183.pdf). Note: the github website doesn´t render the svg well.
 ## Used libraries
 This list isn´t a dependencies list, showed as illustrative purpouses.
 
