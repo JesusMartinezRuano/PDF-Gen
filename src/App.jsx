@@ -39,7 +39,7 @@ class App extends React.Component {
     doc.fillAndStroke('black'); // doc.restore() dont apply after gradient
     doc.font('Helvetica').fontSize(25).fillColor('white').text('Proyector A037', 5*mm5, (5*mm5)+mm1);  // table title      
 
-    doc.fontSize(16).fillColor('black').text('Datos Administrativos',6*mm5, doc.y); // level 1
+    doc.font('Helvetica-Bold').fontSize(16).fillColor('black').text('Datos Administrativos',6*mm5, doc.y); // level 1
     doc.moveTo(6*mm5,doc.y).lineTo(40*mm5,doc.y).stroke();
     doc.moveTo(23*mm5, doc.y+5);        
     
