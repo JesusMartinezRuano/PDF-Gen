@@ -55,7 +55,7 @@ class App extends React.Component {
     doc.moveTo(6*mm5,doc.y).lineTo(40*mm5,doc.y).stroke();
     doc.moveTo(23*mm5, doc.y+5);
 
-    tableLevel2(doc,'Dirección IP','https://github.com/JesusMartinezRuano/react-pdfkit-webpack');
+    tableLevel2(doc,'Dirección IP','https://github.com/JesusMartinezRuano/PDF-Gen');
     tableLevel2(doc,'Password',' ');
     tableLevel2(doc,'Operable','NO');
     tableLevel2(doc,'Observaciones','Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum ');
